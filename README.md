@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 Email: 2262519065@qq.com
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoPoHaiLwz&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
 
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoPoHaiLwz&layout=compact)](https://github.com/wwrrj/github-readme-stats)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
@@ -35,7 +37,3 @@ Here are some ideas to get you started:
 
 ### 🎵 Spotify
 ![card](https://github.com/XPHXPHL/netease-cloud-music-card/blob/main/card.svg)
-
-### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwrrj&layout=compact)](https://github.com/wwrrj/github-readme-stats)
-
