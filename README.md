@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 
 ### 🎵 Spotify
 ![card](https://github.com/XPHXPHL/netease-cloud-music-card/blob/main/card.svg)
+
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwrrj&layout=compact)](https://github.com/wwrrj/github-readme-stats)
+
